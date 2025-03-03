@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: www.google.com
         showIcon: false
         icon: arrowRight
         iconPosition: right
