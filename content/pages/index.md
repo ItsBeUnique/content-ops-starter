@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Mota Bhai Mishtan
+      text: Mota Bhai Misthan Bhandar
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
