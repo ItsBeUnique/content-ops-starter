@@ -30,7 +30,7 @@ sections:
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
-      autoplay: false
+      autoplay: true
       loop: true
       muted: true
       controls: false
