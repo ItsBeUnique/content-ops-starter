@@ -35,7 +35,6 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-      url: /images/jamoon.jpg
     badge:
       label: This is a badge
       color: text-primary
