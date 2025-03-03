@@ -101,7 +101,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "showIcon": true
         }
     ],
     "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
