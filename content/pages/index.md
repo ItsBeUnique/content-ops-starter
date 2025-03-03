@@ -7,7 +7,7 @@ sections:
       text: Mota Bhai Misthan Bhandar
       color: text-dark
       type: TitleBlock
-    subtitle: Gulab Jamoon ₹150
+    subtitle: Gulab Jamoon ₹150/Kg
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
