@@ -16,7 +16,7 @@ sections:
       - label: Google
         altText: ''
         url: 'https://www.google.com'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
